@@ -1,0 +1,67 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+	background-image: url(sipcuy.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.icon img{
+	height: 70px;
+	margin-left: 655px;
+	margin-top: 200px;
+}
+
+.masuk{
+	width: 280px;
+	position: absolute;
+	margin-left: 550px;
+}
+
+.text{
+	width: 100%;
+	overflow: hidden;
+	font-size: 20px;
+	padding: 8px 0;
+	margin: 8px 0;
+	border-bottom: 3px solid #fff;
+}
+
+.text input{
+	border: none;
+	outline: none;
+	background: none;
+	color: white;
+	font-size: 16px;
+	width: 80px;
+	float: left;
+	margin: 10px;
+}
+
+::-webkit-input-placeholder{
+	color: white;
+}
+
+::-ms-input-placeholder{
+	color: white;
+}
+
+button{
+	margin-top: 10px;
+	margin-left: 67px;
+	width: 50%;
+	background-color: #06132B;
+	border-color: #6495ED;
+	border-radius: 10px;
+	color: white;
+	padding: 5px;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+button:hover{
+	background-color: #12416e;
+}

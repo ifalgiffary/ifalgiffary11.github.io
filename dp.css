@@ -1,0 +1,229 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+.header{ 
+	background: linear-gradient(to right, #696F70, #383C3C);
+	height: 80px;
+	width: 100%;
+	margin-top: -19px;		
+}
+
+h1{
+	padding: 20px;
+	font-family: "arial";
+	color: white;
+	margin-left: 10px;
+	margin-top: 19px;
+}
+
+.gambar img{
+	height: 30px;
+	margin-top: 20px;
+	float: right;
+	margin-right: 30px;
+}
+
+.gambar img:hover{
+	cursor: pointer;
+}
+
+.gambar2 img{
+	height: 30px;
+	margin-top: 20px;
+	float: right;
+	margin-right: 30px;
+}
+
+.gambar2 img:hover{
+	cursor: pointer;
+}
+
+
+h4{
+	margin-top: 20px;
+	margin-left: 2px;
+	color: white;
+	font-family: "arial";
+	font-size: 15px;
+}
+
+.conten ul {
+	list-style-type: none;
+	margin-top: -12px;
+	padding: 5px;
+	padding right: -10px;
+
+	
+}
+
+.conten ul li{
+	margin-right: 23px;
+	font-size: 20px;
+	font-family: "arial";
+	margin-top: 30px;
+
+}
+
+.conten a{
+	text-decoration: none;
+	color: #fff;
+	padding: 20px;
+}
+
+.conten a:hover{
+	background-color: #06132B;
+	color: white;
+	border-radius: 3px;
+
+}
+
+.kiri{
+	background: linear-gradient(to top, #0C2454, #06132B);
+	height: 721%;
+	width: 200px;
+	margin-top: -245px;
+	
+	
+}
+
+.box{
+	background-color: white;
+	border-style: solid;
+	border-width: 2px;
+	border-color: blue;
+	border-radius: 10px;
+	margin-left: 220px;
+	margin-top: -565px;
+	height: 550px;
+	width: 500px;
+
+}
+
+.box p{
+	font-family: "arial";
+	font-weight: bold;
+	font-size: 18px;
+	margin-left: 45px;
+	margin-top: -27px;
+}
+
+.box img{
+	height: 30px;
+	margin-left: 10px;
+	margin-top: 20px;
+}
+
+.boxes{
+	background-color: white;
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	border-radius: 15px;
+	margin-left: 50px;
+	margin-top: 40px;
+	height: 400px;
+	width: 400px;
+	display: inline-block;
+
+}
+
+.boxes p{
+	font-family: "arial";
+	font-weight: bold;
+	font-size: 15px;
+	margin-left: 22px;
+	margin-top: 20px;
+}
+
+.boxes table {
+	margin-left: 20px;
+
+}
+.boxes tr td{
+	padding: 6px;
+	font-size: 15px;
+	font-family: "arial";
+	color: orange;
+
+}
+
+.Kotak{
+	background-color: white;
+	border-style: solid;
+	border-width: 2px;
+	border-color: blue;
+	border-radius: 15px;
+	margin-left: 735px;
+	margin-top: 13px;
+	height: 130px;
+	width: 300px;
+}
+
+.Kotak p{
+	font-family: "arial";
+	font-weight: bold;
+	font-size: 14px;
+	margin-left: 25px;
+	margin-top: 7px;   
+}
+
+.File p{
+	font-family: "arial";
+	font-size: 12px;
+}
+
+.Square{
+	background-color: white;
+	border-style: solid;
+	border-width: 2px;
+	border-color: blue;
+	border-radius: 15px;
+	margin-left: 735px;
+	margin-top: 16px;
+	height: 130px;
+	width: 300px;
+}
+
+.Square p{
+	font-family: "arial";
+	font-weight: bold;
+	font-size: 14px;
+	margin-left: 25px;
+	margin-top: 7px;   
+}
+
+.Tugas p{
+	font-family: "arial";
+	font-size: 12px;
+}
+
+.Persegi{
+	background-color: white;
+	border-style: solid;
+	border-width: 2px;
+	border-color: blue;
+	border-radius: 15px;
+	margin-left: 735px;
+	margin-top: 18px;
+	height: 246px;
+	width: 300px;
+}
+
+.Persegi p{
+	font-family: "arial";
+	font-weight: bold;
+	font-size: 14px;
+	margin-left: 25px;
+	margin-top: 7px;   
+}
+
+.Pengguna{
+	margin-left: 25px;
+	font-size: 13px;
+	font-family: "arial";
+
+}
+

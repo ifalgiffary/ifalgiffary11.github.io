@@ -1,0 +1,97 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #F1FAFC;
+	height: 100%;
+	position: absolute;
+		
+}
+
+.header{ 
+	background: #ECECEC;
+	height: 100px;
+	width: 1348px;
+	margin-top: -20px;
+	
+}
+
+.header .judul{
+	font-size: 30px; 
+	padding: 20px;
+	font: 30px/60px arial, sans-serif;
+
+}
+
+.header a{
+	text-decoration: none;
+	color: black;
+}
+
+#container ul {
+	list-style-type: none;
+	margin-top: -65px;
+	float: right;
+
+}
+
+#container ul li{
+	display: inline-block;
+	margin-right: 23px;
+	font-size: 15px;
+
+}
+
+#container ul ul{
+	position: absolute;
+	display: none;
+	margin-top: 1px;
+	padding: 15px;
+}
+
+#container ul li:hover > ul{
+	display: block;
+	cursor: pointer;
+}
+
+#container a{
+	text-decoration: none;
+	color: #333;
+	padding: 3px;
+}
+
+
+
+#container a:hover{
+	background-color: #0C2454;
+	color: white;
+	border-radius: 3px;
+}
+
+#container button{
+    border: none;
+	outline: none;
+	height: 30px;
+	color: white;
+	font-size: 16px;
+	border-radius: 15px;
+	background-color: #556080;
+	cursor: pointer;
+	margin-right: 20px;
+}
+
+.content p{
+	margin-top: 30px;
+	margin-left: 30px;
+	text-indent: 40px;
+	font-family: "arial";
+}
+
+.biru{
+	background: gray;
+	height: 100px;
+	width: 1348px;
+	
+}
+.biru p{
+	padding: 20px;
+}
